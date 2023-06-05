@@ -2,7 +2,7 @@ import React from 'react'
 import InputList from '../atoms/InputList'
 import Separator from '../molecules/Separator'
 import Output from '../atoms/Output'
-import { setInputDay, setInputMonth, setInputYear } from '../atoms/Inputslice'
+import { setInputDay, setInputMonth, setInputYear } from '../atoms/inputSlice'
 
 const AgeCalculator = ({ arrow }) => {
 
